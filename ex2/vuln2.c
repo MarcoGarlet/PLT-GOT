@@ -1,6 +1,5 @@
 #include<stdio.h>
 
-char s[9] = "You fail\x00";
 
 struct vStruct {
 	char buf1[8];
